@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "D:\\Profiles\\toivcs\\.dotnet\\store\\|arch|\\|tfm|",
-      "D:\\Profiles\\toivcs\\.nuget\\packages"
-    ]
-  }
-}
