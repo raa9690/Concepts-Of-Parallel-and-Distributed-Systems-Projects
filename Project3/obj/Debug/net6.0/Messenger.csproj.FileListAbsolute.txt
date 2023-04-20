@@ -1,5 +1,0 @@
-C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Messenger.csproj.AssemblyReference.cache
-C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Messenger.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Messenger.AssemblyInfoInputs.cache
-C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Messenger.AssemblyInfo.cs
-C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Messenger.csproj.CoreCompileInputs.cache
