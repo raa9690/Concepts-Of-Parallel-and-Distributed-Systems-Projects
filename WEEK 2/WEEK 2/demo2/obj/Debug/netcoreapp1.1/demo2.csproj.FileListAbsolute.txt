@@ -1,0 +1,26 @@
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\bin\Debug\netcoreapp1.1\demo2.deps.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\bin\Debug\netcoreapp1.1\demo2.runtimeconfig.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\bin\Debug\netcoreapp1.1\demo2.runtimeconfig.dev.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\bin\Debug\netcoreapp1.1\demo2.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\bin\Debug\netcoreapp1.1\demo2.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\obj\Debug\netcoreapp1.1\demo2.csproj.AssemblyReference.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\obj\Debug\netcoreapp1.1\demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\obj\Debug\netcoreapp1.1\demo2.AssemblyInfoInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\obj\Debug\netcoreapp1.1\demo2.AssemblyInfo.cs
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\obj\Debug\netcoreapp1.1\demo2.csproj.CoreCompileInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\obj\Debug\netcoreapp1.1\demo2.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\obj\Debug\netcoreapp1.1\demo2.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\demo2\obj\Debug\netcoreapp1.1\demo2.genruntimeconfig.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\bin\Debug\netcoreapp1.1\demo2.deps.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\bin\Debug\netcoreapp1.1\demo2.runtimeconfig.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\bin\Debug\netcoreapp1.1\demo2.runtimeconfig.dev.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\bin\Debug\netcoreapp1.1\demo2.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\bin\Debug\netcoreapp1.1\demo2.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\obj\Debug\netcoreapp1.1\demo2.csproj.AssemblyReference.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\obj\Debug\netcoreapp1.1\demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\obj\Debug\netcoreapp1.1\demo2.AssemblyInfoInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\obj\Debug\netcoreapp1.1\demo2.AssemblyInfo.cs
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\obj\Debug\netcoreapp1.1\demo2.csproj.CoreCompileInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\obj\Debug\netcoreapp1.1\demo2.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\obj\Debug\netcoreapp1.1\demo2.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 2\demo2\obj\Debug\netcoreapp1.1\demo2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\New folder\DiningPhilosophers1\bin\Debug\DiningPhilosophers1.exe.config
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\New folder\DiningPhilosophers1\bin\Debug\DiningPhilosophers1.exe
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\New folder\DiningPhilosophers1\bin\Debug\DiningPhilosophers1.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\New folder\DiningPhilosophers1\obj\Debug\DiningPhilosophers1.csproj.AssemblyReference.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\New folder\DiningPhilosophers1\obj\Debug\DiningPhilosophers1.csproj.SuggestedBindingRedirects.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\New folder\DiningPhilosophers1\obj\Debug\DiningPhilosophers1.csproj.CoreCompileInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\New folder\DiningPhilosophers1\obj\Debug\DiningPhilosophers1.exe
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\New folder\DiningPhilosophers1\obj\Debug\DiningPhilosophers1.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\Dining Philospher Problem\DiningPhilosophers1\bin\Debug\DiningPhilosophers1.exe.config
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\Dining Philospher Problem\DiningPhilosophers1\bin\Debug\DiningPhilosophers1.exe
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\Dining Philospher Problem\DiningPhilosophers1\bin\Debug\DiningPhilosophers1.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\Dining Philospher Problem\DiningPhilosophers1\obj\Debug\DiningPhilosophers1.csproj.AssemblyReference.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\Dining Philospher Problem\DiningPhilosophers1\obj\Debug\DiningPhilosophers1.csproj.SuggestedBindingRedirects.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\Dining Philospher Problem\DiningPhilosophers1\obj\Debug\DiningPhilosophers1.csproj.CoreCompileInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\Dining Philospher Problem\DiningPhilosophers1\obj\Debug\DiningPhilosophers1.exe
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 5\Dining Philospher Problem\DiningPhilosophers1\obj\Debug\DiningPhilosophers1.pdb

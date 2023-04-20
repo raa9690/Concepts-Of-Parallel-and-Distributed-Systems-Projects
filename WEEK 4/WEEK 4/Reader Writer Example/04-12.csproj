@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <DebugType>portable</DebugType>
+    <AssemblyName>04-12</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>04-12</PackageId>
+  </PropertyGroup>
+</Project>

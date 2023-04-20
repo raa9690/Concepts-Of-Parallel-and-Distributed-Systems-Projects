@@ -1,0 +1,15 @@
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\bin\Debug\net6.0\PrimeGen.exe
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\bin\Debug\net6.0\PrimeGen.deps.json
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\bin\Debug\net6.0\PrimeGen.runtimeconfig.json
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\bin\Debug\net6.0\PrimeGen.dll
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\bin\Debug\net6.0\PrimeGen.pdb
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\PrimeGen.csproj.AssemblyReference.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\PrimeGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\PrimeGen.AssemblyInfoInputs.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\PrimeGen.AssemblyInfo.cs
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\PrimeGen.csproj.CoreCompileInputs.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\PrimeGen.dll
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\refint\PrimeGen.dll
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\PrimeGen.pdb
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\PrimeGen.genruntimeconfig.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\ref\PrimeGen.dll

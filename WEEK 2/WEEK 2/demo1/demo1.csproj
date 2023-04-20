@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <DebugType>portable</DebugType>
+    <AssemblyName>demo1</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>demo1</PackageId>
+    <RuntimeIdentifiers>win10-x64;osx.10.10-x64;ubuntu.16.10-x64;ubuntu.16.04-x64</RuntimeIdentifiers>
+    <PackageTargetFallback>$(PackageTargetFallback);dnxcore50</PackageTargetFallback>
+    <RuntimeFrameworkVersion>1.1.1</RuntimeFrameworkVersion>
+  </PropertyGroup>
+
+</Project>

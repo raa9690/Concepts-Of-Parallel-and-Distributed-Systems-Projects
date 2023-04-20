@@ -1,0 +1,15 @@
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\bin\Debug\net6.0\Project2.exe
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\bin\Debug\net6.0\Project2.deps.json
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\bin\Debug\net6.0\Project2.runtimeconfig.json
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\bin\Debug\net6.0\Project2.dll
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\bin\Debug\net6.0\Project2.pdb
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\Project2.csproj.AssemblyReference.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\Project2.AssemblyInfoInputs.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\Project2.AssemblyInfo.cs
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\Project2.csproj.CoreCompileInputs.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\Project2.dll
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\refint\Project2.dll
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\Project2.pdb
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\Project2.genruntimeconfig.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project2\Project2\obj\Debug\net6.0\ref\Project2.dll

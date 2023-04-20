@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Project2": {
+      "commandName": "Project",
+      "commandLineArgs": "8192\r\n6"
+    }
+  }
+}

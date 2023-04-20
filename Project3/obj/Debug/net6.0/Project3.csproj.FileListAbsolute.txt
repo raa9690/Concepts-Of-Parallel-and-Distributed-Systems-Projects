@@ -1,0 +1,15 @@
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Project3.csproj.AssemblyReference.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Project3.AssemblyInfoInputs.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Project3.AssemblyInfo.cs
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Project3.csproj.CoreCompileInputs.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\bin\Debug\net6.0\Project3.exe
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\bin\Debug\net6.0\Project3.deps.json
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\bin\Debug\net6.0\Project3.runtimeconfig.json
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\bin\Debug\net6.0\Project3.dll
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\bin\Debug\net6.0\Project3.pdb
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Project3.dll
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\refint\Project3.dll
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Project3.pdb
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\Project3.genruntimeconfig.cache
+C:\Users\ralem\OneDrive\Desktop\CS251\Project3\obj\Debug\net6.0\ref\Project3.dll

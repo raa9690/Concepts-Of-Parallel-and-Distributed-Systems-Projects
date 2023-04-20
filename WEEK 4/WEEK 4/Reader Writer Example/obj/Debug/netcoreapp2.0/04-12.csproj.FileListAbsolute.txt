@@ -1,0 +1,84 @@
+C:/Users/jsb/Dropbox/Teaching/2175/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.deps.json
+C:/Users/jsb/Dropbox/Teaching/2175/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.runtimeconfig.json
+C:/Users/jsb/Dropbox/Teaching/2175/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.runtimeconfig.dev.json
+C:/Users/jsb/Dropbox/Teaching/2175/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.dll
+C:/Users/jsb/Dropbox/Teaching/2175/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.pdb
+C:/Users/jsb/Dropbox/Teaching/2175/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.csprojResolveAssemblyReference.cache
+C:/Users/jsb/Dropbox/Teaching/2175/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.csproj.CoreCompileInputs.cache
+C:/Users/jsb/Dropbox/Teaching/2175/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.AssemblyInfoInputs.cache
+C:/Users/jsb/Dropbox/Teaching/2175/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.AssemblyInfo.cs
+C:/Users/jsb/Dropbox/Teaching/2175/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.dll
+C:/Users/jsb/Dropbox/Teaching/2175/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.pdb
+/Users/jsb/Dropbox/Teaching/2181/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.deps.json
+/Users/jsb/Dropbox/Teaching/2181/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.runtimeconfig.json
+/Users/jsb/Dropbox/Teaching/2181/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.runtimeconfig.dev.json
+/Users/jsb/Dropbox/Teaching/2181/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.dll
+/Users/jsb/Dropbox/Teaching/2181/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.pdb
+/Users/jsb/Dropbox/Teaching/2181/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.csprojAssemblyReference.cache
+/Users/jsb/Dropbox/Teaching/2181/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.csproj.CoreCompileInputs.cache
+/Users/jsb/Dropbox/Teaching/2181/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.AssemblyInfoInputs.cache
+/Users/jsb/Dropbox/Teaching/2181/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.AssemblyInfo.cs
+/Users/jsb/Dropbox/Teaching/2181/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.dll
+/Users/jsb/Dropbox/Teaching/2181/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.pdb
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.deps.json
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.runtimeconfig.json
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.runtimeconfig.dev.json
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.dll
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/src/Module 04/04-12/bin/Debug/netcoreapp2.0/04-12.pdb
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.csprojAssemblyReference.cache
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.AssemblyInfoInputs.cache
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.AssemblyInfo.cs
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.dll
+/Users/jsb/Dropbox/Teaching/2191/CSCI.251/src/Module 04/04-12/obj/Debug/netcoreapp2.0/04-12.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\bin\Debug\netcoreapp2.0\04-12.deps.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\bin\Debug\netcoreapp2.0\04-12.runtimeconfig.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\bin\Debug\netcoreapp2.0\04-12.runtimeconfig.dev.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\bin\Debug\netcoreapp2.0\04-12.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\bin\Debug\netcoreapp2.0\04-12.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.csproj.AssemblyReference.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.AssemblyInfoInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.AssemblyInfo.cs
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.csproj.CoreCompileInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.genruntimeconfig.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\bin\Debug\netcoreapp2.0\04-12.deps.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\bin\Debug\netcoreapp2.0\04-12.runtimeconfig.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\bin\Debug\netcoreapp2.0\04-12.runtimeconfig.dev.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\bin\Debug\netcoreapp2.0\04-12.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\bin\Debug\netcoreapp2.0\04-12.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.csproj.AssemblyReference.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.AssemblyInfoInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.AssemblyInfo.cs
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.csproj.CoreCompileInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\src\Module 04\04-12\obj\Debug\netcoreapp2.0\04-12.genruntimeconfig.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\bin\Debug\netcoreapp2.0\04-12.deps.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\bin\Debug\netcoreapp2.0\04-12.runtimeconfig.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\bin\Debug\netcoreapp2.0\04-12.runtimeconfig.dev.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\bin\Debug\netcoreapp2.0\04-12.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\bin\Debug\netcoreapp2.0\04-12.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\obj\Debug\netcoreapp2.0\04-12.csproj.AssemblyReference.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\obj\Debug\netcoreapp2.0\04-12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\obj\Debug\netcoreapp2.0\04-12.AssemblyInfoInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\obj\Debug\netcoreapp2.0\04-12.AssemblyInfo.cs
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\obj\Debug\netcoreapp2.0\04-12.csproj.CoreCompileInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\obj\Debug\netcoreapp2.0\04-12.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\obj\Debug\netcoreapp2.0\04-12.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\04-12\obj\Debug\netcoreapp2.0\04-12.genruntimeconfig.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\bin\Debug\netcoreapp2.0\04-12.deps.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\bin\Debug\netcoreapp2.0\04-12.runtimeconfig.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\bin\Debug\netcoreapp2.0\04-12.runtimeconfig.dev.json
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\bin\Debug\netcoreapp2.0\04-12.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\bin\Debug\netcoreapp2.0\04-12.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\obj\Debug\netcoreapp2.0\04-12.csproj.AssemblyReference.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\obj\Debug\netcoreapp2.0\04-12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\obj\Debug\netcoreapp2.0\04-12.AssemblyInfoInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\obj\Debug\netcoreapp2.0\04-12.AssemblyInfo.cs
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\obj\Debug\netcoreapp2.0\04-12.csproj.CoreCompileInputs.cache
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\obj\Debug\netcoreapp2.0\04-12.dll
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\obj\Debug\netcoreapp2.0\04-12.pdb
+D:\Profiles\toivcs\Desktop\RIT\CSCI 251\SPRING 2025\WEEK 4\Reader Writer Example\obj\Debug\netcoreapp2.0\04-12.genruntimeconfig.cache

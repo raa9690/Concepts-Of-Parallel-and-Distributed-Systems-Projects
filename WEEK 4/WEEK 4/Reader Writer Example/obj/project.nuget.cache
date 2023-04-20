@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1RwBvrYLyUZOsE3X4UIH2pJTiVj8QKUC6aBPwHF1tUf/ST8xJdymt1o6KfAyL+r0FjNCo01pNAANKN/WCnZpg==",
+  "success": true,
+  "projectFilePath": "D:\\Profiles\\toivcs\\Desktop\\RIT\\CSCI 251\\SPRING 2025\\WEEK 4\\Reader Writer Example\\04-12.csproj",
+  "expectedPackageFiles": [
+    "D:\\Profiles\\toivcs\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "D:\\Profiles\\toivcs\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "D:\\Profiles\\toivcs\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "D:\\Profiles\\toivcs\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "D:\\Profiles\\toivcs\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "D:\\Profiles\\toivcs\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
